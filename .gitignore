@@ -1,0 +1,10 @@
+# checkpoints of the simulation drivers (large)
+*_checkpoint_seed*.rds
+# R and editor files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.DS_Store
+Thumbs.db
+logs/

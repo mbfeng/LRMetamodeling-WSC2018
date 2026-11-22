@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Unbiased Metamodeling via Likelihood Ratios: code"
+authors:
+  - family-names: Dong
+    given-names: Jing
+  - family-names: Feng
+    given-names: M. Ben
+  - family-names: Nelson
+    given-names: Barry L.
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Unbiased Metamodeling via Likelihood Ratios"
+  authors:
+    - family-names: Dong
+      given-names: Jing
+    - family-names: Feng
+      given-names: M. Ben
+    - family-names: Nelson
+      given-names: Barry L.
+  collection-title: "Proceedings of the 2018 Winter Simulation Conference"
+  publisher:
+    name: IEEE
+  year: 2018
+  start: 1778
+  end: 1789
+  doi: "10.1109/WSC.2018.8632506"
