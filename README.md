@@ -1,5 +1,7 @@
 # Unbiased Metamodeling via Likelihood Ratios — code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24446361.svg)](https://doi.org/10.5281/zenodo.24446361)
+
 R code for the numerical experiments of
 
 > Dong, J., Feng, M. B., and Nelson, B. L. (2018). Unbiased Metamodeling via Likelihood Ratios.
@@ -160,6 +162,11 @@ replication takes about 0.07 s (global) and 0.3 s (target); the 2018 code took a
   now sums the five columns explicitly; the tests then pass with both the reference BLAS and
   OpenBLAS, and the reruns were repeated.
 * 2018-03/07: original code.
+
+## Archived code
+
+This code is archived on Zenodo: https://doi.org/10.5281/zenodo.24446361 (all versions;
+v1.0.0 is https://doi.org/10.5281/zenodo.24446362).
 
 ## License
 

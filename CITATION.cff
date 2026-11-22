@@ -9,6 +9,8 @@ authors:
   - family-names: Nelson
     given-names: Barry L.
 license: MIT
+doi: "10.5281/zenodo.24446361"
+repository-code: "https://github.com/mbfeng/LRMetamodeling-WSC2018"
 preferred-citation:
   type: conference-paper
   title: "Unbiased Metamodeling via Likelihood Ratios"
